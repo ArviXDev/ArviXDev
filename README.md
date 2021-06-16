@@ -1,3 +1,10 @@
+# Hi!
+
+I'm ArviX
+I'm a NodeJS developer
+I can some nice things, with Python and GoLang
+
+
 ![LordAlex2015's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordAlex2015&show_icons=true&theme=radical)
 
 
