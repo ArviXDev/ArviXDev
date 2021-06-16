@@ -1,4 +1,5 @@
-### Hi there 👋
+![LordAlex2015's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordAlex2015&show_icons=true&theme=radical)
+
 
 <!--
 **LordAlex2015/LordAlex2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
