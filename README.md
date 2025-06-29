@@ -14,6 +14,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/LordAlex2015"><img src="https://github-readme-stats.vercel.app/api?username=LordAlex2015&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LordAlex2015's GitHub stats" /></a>
+<a href="http://www.github.com/ArviXDev"><img src="https://github-readme-stats.vercel.app/api?username=ArviXDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LordAlex2015's GitHub stats" /></a>
 
-<a href="https://github.com/LordAlex2015" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordAlex2015&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ArviXDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArviXDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
